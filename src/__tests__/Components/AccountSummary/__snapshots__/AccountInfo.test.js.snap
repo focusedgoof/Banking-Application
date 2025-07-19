@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AccountInfo Component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="accountInfo"
+  >
+    <h3>
+      Welcome, User. Here are your account details
+    </h3>
+    <div
+      class="info-cards"
+    >
+      <div
+        class="card"
+      >
+        <p>
+          Account Number
+        </p>
+        <button>
+          Click to view
+        </button>
+      </div>
+      <div
+        class="card"
+      >
+        <p>
+          IFSC Code
+        </p>
+        <button>
+          Click to view
+        </button>
+      </div>
+      <div
+        class="card"
+      >
+        <p>
+          Branch Details
+        </p>
+        <button>
+          Click to view
+        </button>
+      </div>
+      <div
+        class="card"
+      >
+        <p>
+          Available Balance
+        </p>
+        <button>
+          Click to view
+        </button>
+      </div>
+      <div
+        class="card"
+      >
+        <p>
+          PAN Details
+        </p>
+        <button>
+          Click to view
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

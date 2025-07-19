@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Beneficiary Component Snapshot Test renders Beneficiary component correctly 1`] = `
+<DocumentFragment>
+  <div>
+    Mocked Beneficiary Component
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Beneficiary Component Snapshot Test renders Beneficiary component correctly with existing beneficiaries 1`] = `
+<DocumentFragment>
+  <div>
+    Mocked Beneficiary Component
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Beneficiary Component Snapshot Test renders Beneficiary component correctly with no existing beneficiaries 1`] = `
+<DocumentFragment>
+  <div>
+    Mocked Beneficiary Component
+  </div>
+</DocumentFragment>
+`;

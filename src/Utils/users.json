@@ -1,0 +1,39 @@
+[
+  {
+    "Username": "Akshat Arya",
+    "Password": "Passw0rd",
+    "AccountNumber": 1234567890123456,
+    "Balance": 6707,
+    "PAN": "ABCD1234E",
+    "Branch": "Branch A",
+    "IFSCCode": "IFSC001"
+  },
+  {
+    "Username": "Rahul Sharma",
+    "Password": "Secur1ty",
+    "AccountNumber": 9876543210987654,
+    "Balance": 5635,
+    "PAN": "WXYZ5678F",
+    "Branch": "Branch B",
+    "IFSCCode": "IFSC002"
+  },
+  {
+    "Username": "Umang Mittal",
+    "Password": "Log1n123",
+    "AccountNumber": 4567890123456789,
+    "Balance": 60375,
+    "PAN": "PQRS9012G",
+    "Branch": "Branch C",
+    "IFSCCode": "IFSC003"
+  },
+  {
+    "Username": "Priya Gupta",
+    "Password": "NewPassw0rd",
+    "AccountNumber": 7890123456789012,
+    "Balance": 10000,
+    "PAN": "EFGH5678H",
+    "Branch": "Mumbai Central",
+    "IFSCCode": "IFSC004"
+  }
+]
+  

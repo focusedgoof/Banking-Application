@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component matches snapshot 1`] = `
+<DocumentFragment>
+  <header
+    class="header"
+  >
+    <ul
+      class="left-header"
+    >
+      <li>
+        <a
+          href="/"
+          style="text-decoration: none;"
+        >
+          <div
+            class="logo-container"
+          >
+            <img
+              alt="logo"
+              class="HeaderImage"
+              src="Logo.jpg"
+            />
+            <p>
+              Anna Bank
+            </p>
+          </div>
+        </a>
+      </li>
+    </ul>
+    <ul
+      class="right-header"
+    >
+      <li>
+        <a
+          href="/beneficiaries"
+        >
+          Beneficiaries
+        </a>
+      </li>
+      <li>
+        <a
+          href="/transactions"
+        >
+          Transactions
+        </a>
+      </li>
+      <li>
+        <a
+          href="/contact"
+        >
+          Contact Us
+        </a>
+      </li>
+      <li
+        class="logout-link"
+      >
+        Logout
+      </li>
+    </ul>
+  </header>
+</DocumentFragment>
+`;

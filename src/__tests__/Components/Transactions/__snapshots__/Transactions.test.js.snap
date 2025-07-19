@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Transactions Component Snapshot Test renders Transactions component correctly 1`] = `
+<DocumentFragment>
+  <section
+    class="transactions"
+  >
+    <h3>
+      Transactions for Account Number: 
+    </h3>
+    <p
+      class="empty-table"
+    >
+      No existing Transaction.
+    </p>
+  </section>
+</DocumentFragment>
+`;
+
+exports[`Transactions Component Snapshot Test renders Transactions component correctly with existing transactions 1`] = `
+<DocumentFragment>
+  <section
+    class="transactions"
+  >
+    <h3>
+      Transactions for Account Number: 
+    </h3>
+    <p
+      class="empty-table"
+    >
+      No existing Transaction.
+    </p>
+  </section>
+</DocumentFragment>
+`;
+
+exports[`Transactions Component Snapshot Test renders Transactions component correctly with multiple existing transactions 1`] = `
+<DocumentFragment>
+  <section
+    class="transactions"
+  >
+    <h3>
+      Transactions for Account Number: 
+    </h3>
+    <p
+      class="empty-table"
+    >
+      No existing Transaction.
+    </p>
+  </section>
+</DocumentFragment>
+`;
+
+exports[`Transactions Component Snapshot Test renders Transactions component correctly with no existing transactions 1`] = `
+<DocumentFragment>
+  <section
+    class="transactions"
+  >
+    <h3>
+      Transactions for Account Number: 
+    </h3>
+    <p
+      class="empty-table"
+    >
+      No existing Transaction.
+    </p>
+  </section>
+</DocumentFragment>
+`;
+
+exports[`Transactions Component Snapshot Test renders Transactions component correctly with one existing transaction 1`] = `
+<DocumentFragment>
+  <section
+    class="transactions"
+  >
+    <h3>
+      Transactions for Account Number: 
+    </h3>
+    <p
+      class="empty-table"
+    >
+      No existing Transaction.
+    </p>
+  </section>
+</DocumentFragment>
+`;

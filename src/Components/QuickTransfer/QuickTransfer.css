@@ -1,0 +1,109 @@
+.transfer{
+  width:100%;
+}
+.quick-transfer{
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #f0f0f0;
+  width:80%;
+  margin:auto;
+  border-radius: 5px;
+  margin-bottom:2%;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.quick-transfer > h3 {
+  width: 100%;
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 1%;
+  margin-top:1%;
+  font-size:1.8rem;
+  color:#092981;
+}
+
+.quick-transfer-data {
+  width: 90vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.dropdown {
+  border-radius: 5px;
+  width: 40%;
+  margin: 0;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-color: #03658C;
+  padding:1%;
+  color:#3B5074;
+}
+
+form {
+  width: 100%;  
+  align-items: center;
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+.form-inputs{
+  width: 40%;
+}
+
+input{
+  width:100%;
+  font-size: 1.2rem; 
+  padding:2.6% 0;
+  padding-left:2%;
+  border-radius:5px;
+  border: 1px solid #03658C;
+  background-color: #FFF;
+}
+
+.form-fields{
+  display:flex;
+  flex-direction:row;
+  width: 80%;
+  justify-content: space-between;
+}
+
+.form-fields p{
+  margin:0;
+  padding:0;
+  color:#092981;
+  font-size:1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+form  button {
+  border: none;
+  font-size:1rem;
+  text-transform: uppercase;
+  border-radius: 5px; 
+  background-color: #34b3f7;
+  color:#FFF;
+  cursor: pointer;
+  padding: 1% 0;
+  width:20%;
+  margin-top:3%;
+  padding:1.5%;
+  transition: background-color 0.3s ease-in-out;
+}
+
+input:focus,
+input:hover,
+.form-field:focus{
+  border:2px solid #03658C;
+}
+
+button:hover {
+  background-color: #55afd3;;
+  color:#FFF;
+}

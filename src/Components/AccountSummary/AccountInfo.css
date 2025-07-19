@@ -1,0 +1,10 @@
+.accountInfo > h3 {
+  display: flex;
+  font-size: 30px;
+  width: 100%;
+  font-weight: bolder;
+  justify-content: center;
+  margin-top:0;
+  margin-bottom:3%;
+  color:#34b3f7;
+}
